@@ -1,8 +1,13 @@
 
-unsort_list = [456, 456, 4, 89, 4956, 53, 12, 123, 345, 134, 23, 46, 37]
+unsorted = [456, 456, 4, 89, 4956, 53, 12, 123, 345, 134, 23, 46, 37]
 
-class mafsort(l):
+class MafSort:
 
+    def __init__(self, lst):
+        self.lst1 = lst
+        #self.list2 = list2
+
+    
     """
     bubble sort algorithm
 
@@ -10,19 +15,17 @@ class mafsort(l):
 
     """
 
-
-
-    def bubble(self, l):
+    def bubble(self, lst):
         """ Sorts a list using a bubblesort algorithm """
-        for p in range(len(l)-1,0,-1):
+        for p in range(len(lst)-1,0,-1):
             for i in range(p):
-                if l[i]>l[i+1]:
-                    t = l[i]
-                    l[i] = l[i+1]
-                    l[i+1] = t
+                if lst[i] > lst[i+1]:
+                    t = lst[i]
+                    lst[i] = lst[i+1]
+                    lst[i+1] = t
 
 
-bubblesort = mafsort.bubble(unsort_list)
+bubblesort = MafSort.bubble(unsorted)
 
 print(bubblesort)
 
