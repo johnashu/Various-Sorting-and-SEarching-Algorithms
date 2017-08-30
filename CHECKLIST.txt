@@ -1,0 +1,55 @@
+Data Structures & Algorithms 
+
+    Algorithm
+    DSA - Algorithms Basics
+    DSA - Asymptotic Analysis
+    DSA - Greedy Algorithms
+    DSA - Divide and Conquer
+    DSA - Dynamic Programming
+
+    Data Structures
+    DSA - Data Structure Basics
+    DSA - Array Data Structure
+
+    Linked Lists
+    DSA - Linked List Basics
+    DSA - Doubly Linked List
+    DSA - Circular Linked List
+
+    Stack & Queue
+    DSA - Stack
+    DSA - Expression Parsing
+    DSA - Queue
+
+    Searching Techniques
+   X DSA - Linear Search
+   X DSA - Binary Search
+    DSA - Interpolation Search
+    DSA - Hash Table
+
+    Sorting Techniques
+    DSA - Sorting Algorithms
+   X DSA - Bubble Sort
+   X DSA - Insertion Sort
+   X DSA - Selection Sort
+   X DSA - Merge Sort
+   X DSA - Shell Sort
+   X DSA - Quick Sort
+
+    Graph Data Structure
+    DSA - Graph Data Structure
+    DSA - Depth First Traversal
+    DSA - Breadth First Traversal
+
+    Tree Data Structure
+    DSA - Tree Data Structure
+    DSA - Tree Traversal
+    DSA - Binary Search Tree
+    DSA - AVL Tree
+    DSA - Spanning Tree
+    DSA - Heap
+
+    Recursion
+    DSA - Recursion Basics
+    DSA - Tower of Hanoi
+    DSA - Fibonacci Series
