@@ -13,7 +13,7 @@ r = a[-1]
 
 
 
-x = 4
+x = 42
 
 def maf_binary(sorted_array, value):
     """
@@ -24,11 +24,15 @@ def maf_binary(sorted_array, value):
 
     min = 0
     max = len(sorted_array) - 1
+    
     while min <= max: 
         mid = (min + max) // 2
-        if sorted_array[mid] > value: max = mid - 1
-        elif sorted_array[mid] < value: min = mid + 1
-        else: return mid
+        if sorted_array[mid] > value: 
+            max = mid - 1
+        elif sorted_array[mid] < value: 
+            min = mid + 1
+        else: 
+            return mid
     
 print("Results fromFor Loop:", maf_binary(a, x))
 

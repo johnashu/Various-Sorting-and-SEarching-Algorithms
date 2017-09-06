@@ -27,8 +27,8 @@ Data Structures & Algorithms
     DSA - Interpolation Search
     DSA - Hash Table
 
-    Sorting Techniques
-    DSA - Sorting Algorithms
+XXXX Sorting Techniques
+   X DSA - Sorting Algorithms
    X DSA - Bubble Sort
    X DSA - Insertion Sort
    X DSA - Selection Sort
