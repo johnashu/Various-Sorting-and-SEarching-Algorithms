@@ -24,10 +24,10 @@ Data Structures & Algorithms
     Searching Techniques
    X DSA - Linear Search
    X DSA - Binary Search
-    DSA - Interpolation Search
+   X DSA - Interpolation Search
     DSA - Hash Table
 
-XXXX Sorting Techniques
+*** Sorting Techniques
    X DSA - Sorting Algorithms
    X DSA - Bubble Sort
    X DSA - Insertion Sort
