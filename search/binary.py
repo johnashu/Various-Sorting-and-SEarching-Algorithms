@@ -11,8 +11,6 @@ a = [1, 2, 3, 4, 5, 6, 7,  8, 9, 42]
 l = a[0]
 r = a[-1]
 
-
-
 x = 42
 
 def maf_binary(sorted_array, value):

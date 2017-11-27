@@ -34,8 +34,6 @@ def maf_lin_com(a, x):
     
     e = "Item Not Found"
 
-    rtn = [ a.index(i) for i in a if  i == x]
-    return rtn
-
+    return [a.index(i) for i in a if  i == x] 
 
 print("Results from List Comprehension:", maf_lin_com(a, v) )
